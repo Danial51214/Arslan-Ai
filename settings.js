@@ -1,8 +1,8 @@
 // 💥 Anti-Clone Security Check
 const fs = require("fs");
 
-const botName = "Arslan-MD";
-const ownerNumber = "923237045919";
+const botName = "Danial-MD";
+const ownerNumber = "923094191571";
 
 // 🚫 Block if tampered
 if (__filename.includes('node_modules') === false) {
